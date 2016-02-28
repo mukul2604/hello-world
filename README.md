@@ -1,3 +1,2 @@
 # hello-world
-intro
-hi committin this now
+HI I am new to git . Currently learing
